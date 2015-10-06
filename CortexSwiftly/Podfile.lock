@@ -1,0 +1,20 @@
+PODS:
+  - DataCortex (0.2.0)
+
+DEPENDENCIES:
+  - DataCortex (from `https://github.com/data-cortex/cortex-ios-sdk.git`, branch `jlake-wip`)
+
+EXTERNAL SOURCES:
+  DataCortex:
+    :branch: jlake-wip
+    :git: https://github.com/data-cortex/cortex-ios-sdk.git
+
+CHECKOUT OPTIONS:
+  DataCortex:
+    :commit: ff6dbedfa5296da945365ce53df2013546fb735a
+    :git: https://github.com/data-cortex/cortex-ios-sdk.git
+
+SPEC CHECKSUMS:
+  DataCortex: 16c3a21197ac14b39e2ce00993e58628c3eba428
+
+COCOAPODS: 0.38.2
