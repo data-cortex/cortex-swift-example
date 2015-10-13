@@ -1,10 +1,10 @@
 PODS:
-  - DataCortex (1.0.1)
+  - DataCortex (1.0.2)
 
 DEPENDENCIES:
   - DataCortex
 
 SPEC CHECKSUMS:
-  DataCortex: a371b849a5b38d0aa7b83a554a463d65a9ac7afa
+  DataCortex: d5283a4de6597af356abe2a586ebf8ecde202ee5
 
 COCOAPODS: 0.39.0
