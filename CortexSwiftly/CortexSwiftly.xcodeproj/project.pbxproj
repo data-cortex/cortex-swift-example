@@ -12,7 +12,7 @@
 		2DF457CC1BC37203009E7B1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DF457CA1BC37203009E7B1E /* Main.storyboard */; };
 		2DF457CE1BC37203009E7B1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DF457CD1BC37203009E7B1E /* Assets.xcassets */; };
 		2DF457D11BC37203009E7B1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DF457CF1BC37203009E7B1E /* LaunchScreen.storyboard */; };
-		381410954F398B5411234D12 /* Pods_CortexSwiftly.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 361BE17E191F51081715D569 /* Pods_CortexSwiftly.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		381410954F398B5411234D12 /* Pods_CortexSwiftly.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 361BE17E191F51081715D569 /* Pods_CortexSwiftly.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */

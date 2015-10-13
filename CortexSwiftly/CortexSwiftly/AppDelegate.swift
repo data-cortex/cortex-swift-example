@@ -17,7 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
 
-        DataCortex.sharedInstanceWithAPIKey("dYlBxjMTYkXadqhnOyHnjo7iGb5bW1y0", forOrg:"rs_example")
+        DataCortex.sharedInstanceWithAPIKey("BU7jaICBo2AS1lz9YVtIS7QQgGAvOGl_", forOrg:"rs_example")
 
         return true
     }
